@@ -1,44 +1,24 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
+# [Algorithm Practices](algorithm-practice.md)
+
+# [Challenges](challenges.md)
+
 # [Cohort Member Blogs](member_blogs.md)
 
-# Regular Expressions Tutorials:
+# [Color Palette Tools](color-tools.md)
 
-* https://regexone.com/
-* https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
+# [Fonts](fonts.md)
 
-# RegEx Practice
+# [Free images](free-images.md)
 
-* https://alf.nu/RegexGolf
-* https://regexcrossword.com/
+# [Git/Github](git-github.md)
 
-# Free images
-* https://pixabay.com/
-* https://unsplash.com/
+# [HTML/CSS Resources](html-css.md)
 
-# Color palette tools
-* http://paletton.com/
-* http://colorsupplyyy.com/app/
+# [React Resources](react.md)
 
-# fonts
-* http://fontawesome.io/
-* https://www.fontsquirrel.com/
+# [Regular Expressions Tutorials and Practice](regex.md)
 
-# Html/Css resources
-* http://learn.shayhowe.com/
-
-# React Resources
-* https://online.reacttraining.com/
-
-# Algorithm Practices
-* https://projecteuler.net/
-* http://exercism.io/
-* https://www.hackerrank.com/
-* https://www.codewars.com/
-
-# Challenges
-* https://javascript30.com/
-* http://dailycssimages.com/
-* https://github.com/Kallaway/100-days-of-code
 
